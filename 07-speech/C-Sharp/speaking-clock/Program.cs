@@ -1,4 +1,6 @@
-﻿using System;
+﻿//dotnet add package Microsoft.CognitiveServices.Speech --version 1.14.0
+
+using System;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 
