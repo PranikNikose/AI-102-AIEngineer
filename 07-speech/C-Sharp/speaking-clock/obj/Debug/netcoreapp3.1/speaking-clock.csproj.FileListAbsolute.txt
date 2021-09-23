@@ -1,0 +1,5 @@
+D:\AZURE (ND)\AI-102-AIEngineer\07-speech\C-Sharp\speaking-clock\obj\Debug\netcoreapp3.1\speaking-clock.csproj.AssemblyReference.cache
+D:\AZURE (ND)\AI-102-AIEngineer\07-speech\C-Sharp\speaking-clock\obj\Debug\netcoreapp3.1\speaking-clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\AZURE (ND)\AI-102-AIEngineer\07-speech\C-Sharp\speaking-clock\obj\Debug\netcoreapp3.1\speaking-clock.AssemblyInfoInputs.cache
+D:\AZURE (ND)\AI-102-AIEngineer\07-speech\C-Sharp\speaking-clock\obj\Debug\netcoreapp3.1\speaking-clock.AssemblyInfo.cs
+D:\AZURE (ND)\AI-102-AIEngineer\07-speech\C-Sharp\speaking-clock\obj\Debug\netcoreapp3.1\speaking-clock.csproj.CoreCompileInputs.cache
